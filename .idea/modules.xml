@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/lab 1 - gRPC.iml" filepath="$PROJECT_DIR$/.idea/lab 1 - gRPC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gRPCGC.iml" filepath="$PROJECT_DIR$/gRPCGC.iml" />
     </modules>
   </component>
 </project>

@@ -26,6 +26,7 @@ The objective of this grand challenge is to construct a software tool that conne
 * We also have 4 different servers out of which 3 are written in Java and one is written in Python for achieving the variety.
 * These 4 different servers will receive the data from the Communication server and process them and returns the response back to the Communication server.
 * So, this is how we are achieving the data communication in the network through distributed multi client server architecture.
+* The architecture diagram for this project is attached in the code base which is names as "Architecture Diagram".
 
 ## Technologies and Frameworks:
 * gRpc
